@@ -166,7 +166,7 @@ data.head(10)
 
 
 ```python
-# data.dropna(inplace = True)
+data.dropna(inplace = True)
 ```
 
 
