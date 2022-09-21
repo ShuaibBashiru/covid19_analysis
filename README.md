@@ -196,7 +196,7 @@ data.drop(columns = ['date'], inplace = True)
 
 ```python
 # data.isnull
-# data.fillna(0)
+data.fillna(0)
 
 ```
 
